@@ -17,17 +17,16 @@ The following is a rough draft of what I'd like this project to be. All of this 
  1. What does this do?
 	1a. This project allows users to make, share, and save archaic and strange connections between content on the internet in a fun and interactive way. 
  
- 2. Core project features: 
-	2a. Direct the user toward content 
-	2b. Allow the user to make connections between content 
-	2c. Allow the user to navigate from connection to connection
-	2d. Store connections and score them according to 'rarity'
+ 2. Core project features:  Direct the user toward content 
+ Allow the user to make connections between content 
+ Allow the user to navigate from connection to connection
+ Store connections and score them according to 'rarity'
 
  3. Fun ideas/potential features:
-	3a. Allow users to leave comments on conections or messages for other users (this should be restricted to some degree in order to prevent spam? Make this fun somehow)
-  3b. Include ways to augment or change how users  interact with connections. (Think class and multiclass system??? This would be fun if peoplecould make their own)
-  3c. Allow users to host their own content? Like a myspace? Or should users be ab	le to host their connections? This will %100 become porn...
-  3d. Should there be an actual search function? What makes this more than just a 	biased web browser? Should the conections be random? Or should they be a continu	ous stream? (Imagine a quest? A        narritive of content and connections?) 
+     Allow users to leave comments on conections or messages for other users (this should be restricted to some degree in order to prevent spam? Make this fun somehow)
+     Include ways to augment or change how users  interact with connections. (Think class and multiclass system??? This would be fun if people could make their own)
+    Allow users to host their own content? Like a myspace? Or should users be able to host their connections?
+     Should there be an actual search function? What makes this more than just a biased web browser? Should the conections be random? Or should they be a continuous stream? (Imagine a quest? A narritive of content and connections?) 
 
 	
 	
